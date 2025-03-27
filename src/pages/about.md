@@ -5,6 +5,8 @@ cover: /favicon.svg
 ---
 AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
 
+![](/astropaper-og.jpg)
+
 This theme is aimed to be accessible out of the box. Light and dark mode are supported by default and additional color schemes can also be configured.
 
 ![](/assets/logo.png)
